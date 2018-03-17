@@ -1,2 +1,2 @@
 # my_repo
-Practica modulo 1
+Primer fichero en el primer repositorio de rminarro
